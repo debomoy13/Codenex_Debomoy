@@ -1,5 +1,6 @@
 # Codenex_Debomoy
 In my code I have applied basics concepts of python.
+
 Step 1 : I have initialised 5 variables (ie. a,b,c,d,e) which represents 5 subjects  (physics,chemistry,maths,computer,english respectively).
 
 
